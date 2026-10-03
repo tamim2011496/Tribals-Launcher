@@ -1,0 +1,21 @@
+{
+  "name": "tribals-launcher",
+  "version": "1.0.0",
+  "description": "Tribals standalone launcher",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "39.8.10",
+    "electron-builder": "^26.15.3"
+  },
+  "build": {
+    "appId": "com.tribals.launcher",
+    "productName": "Tribals",
+    "win": {
+      "target": "nsis"
+    }
+  }
+}
