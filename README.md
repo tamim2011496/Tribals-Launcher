@@ -11,7 +11,7 @@ The first public release of the **Tribals Launcher**, a standalone desktop app f
 
 ## Download
 Download **TribalsSetup.exe** from the assets below.
-
+[click here]https://github.com/tamim2011496/Tribals-Launcher/releases/tag/v1.0.0)
 ## Install
 1. Run `TribalsSetup.exe` (administrator permission is required).
 2. Choose an install folder, or keep the default: `C:\Program Files\Tribals`.
